@@ -10,4 +10,4 @@
 ?>
 Something is wrong with the XAMPP installation :-(
 
-	TEST GitHub
+	TEST GitHub --New
